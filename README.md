@@ -1,5 +1,8 @@
 <div align="center">
 <h1>
+  Sable - A Stoat Client is a current Work In Progress fork of Stoat for Desktop. Down below is the current instructions to compile just the default stoat client and the current new Sable client is a work in progress
+
+  
   Stoat for Desktop
   
   [![Stars](https://img.shields.io/github/stars/stoatchat/for-desktop?style=flat-square&logoColor=white)](https://github.com/stoatchat/for-desktop/stargazers)
